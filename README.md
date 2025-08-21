@@ -71,8 +71,7 @@ Alongside **freelancing**, I’m also exploring **IoT + AI integration.**
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=furiouskhan007&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=furiouskhan007&icon=5&color=13)](https://visitcount.itsvg.in)
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
