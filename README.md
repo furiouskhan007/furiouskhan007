@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 Hi, I'm **Murtaza** 👋  
 I’m an **A full-stack AI engineer** with a strong presence on **Upwork** and **Fiverr**, having completed **76+ projects** in **computer vision** and **embedded AI**. I specialize in **optimizing AI models** for **edge deployment** using techniques like **quantization** to improve **speed and reduce memory** usage.  
